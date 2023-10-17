@@ -25,6 +25,31 @@ public class SkinServiceImpl implements SkinService {
         return skinRepository.findByDisponibilidadTrue();
     }
 
+    @Override
+    public Skin buySkin(Skin skin) {
+        return null;
+    }
+
+    @Override
+    public List<Skin> getMySkins() {
+        return null;
+    }
+
+    @Override
+    public Skin updateSkinColor(long id, String newColor) {
+        return null;
+    }
+
+    @Override
+    public void deleteSkin(long id) {
+
+    }
+
+    @Override
+    public Skin getSkinById(long id) {
+        return null;
+    }
+
     /**
      * Obtiene una lista de todas las skins.
      *
