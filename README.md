@@ -12,9 +12,9 @@ La API de Skins es una aplicación que te permite gestionar **skins** para un ju
 
 Para usar la API de Skins, necesitas tener instalado lo siguiente en tu ordenador:
 
-- **Java 17**: Es el lenguaje de programación que se usa para desarrollar la API. Puedes descargarlo desde este enlace.
-- **Maven**: Es una herramienta que se encarga de gestionar las dependencias y construir el proyecto. Si no lo tienes instalado, puedes obtenerlo aquí.
-- **MySQL**: Es el sistema de gestión de bases de datos que se usa para almacenar la información de los usuarios y los skins. Asegúrate de tenerlo instalado. Puedes descargarlo desde el sitio oficial de MySQL.
+- **Java 17**: Es el lenguaje de programación que se usa para desarrollar la API. Puedes descargarlo desde  [este enlace](https://www.oracle.com/java/technologies/javase-downloads.html).
+- **Maven**: Es una herramienta que se encarga de gestionar las dependencias y construir el proyecto. Si no lo tienes instalado, puedes obtenerlo [aquí](https://maven.apache.org/).
+- **MySQL**: Es el sistema de gestión de bases de datos que se usa para almacenar la información de los usuarios y los skins. Asegúrate de tenerlo instalado. Puedes descargarlo desde el [sitio oficial de MySQL](https://dev.mysql.com/downloads/mysql/).
 
 ## ¿Cómo configurar la API de Skins?
 
