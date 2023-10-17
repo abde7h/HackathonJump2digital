@@ -75,10 +75,3 @@ La lógica de negocio detrás de la API de Skins garantiza que las operaciones s
 ### Persistencia de Datos
 
 La aplicación utiliza una base de datos MySQL para almacenar información sobre las skins, como nombre, tipo, precio, color, descripción, imagen y disponibilidad. La capa de persistencia se implementa a través de JPA y Spring Data.
-
-### Documentación
-
-La documentación completa de la API, incluyendo descripciones detalladas de cada endpoint, los parámetros requeridos y las respuestas esperadas, está disponible para facilitar el uso de la API.
-
-El desarrollo de la API se ha centrado en proporcionar una plataforma confiable y escalable para la gestión de skins, cumpliendo con los requisitos funcionales especificados en el proyecto.
-
